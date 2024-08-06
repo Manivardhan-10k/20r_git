@@ -1,1 +1,15 @@
-Hello from computer
+git init ---- used to initialize the remote repository in the local machine
+
+
+git clone--- used to make a copy of repo(repository) in the local machine
+
+
+git status ---to check the current status of the repo
+
+
+git add ("filename") --- to track the untracked files
+
+git commit -m "commit message" (should be proper and related to the content)
+
+
+git push -- to push the files in the local to remote
