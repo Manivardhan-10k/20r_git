@@ -1,0 +1,14 @@
+1. create a git hub account
+2. create a repo
+3.install  git 
+
+4. git init
+5. git clone "repo_name"
+6.git status
+7.create a new file
+8.git add "file_name"
+9.git config --global user.email "email"
+10.git config --global user.name "name"
+11.git commit -m "message"
+12.git push
+
