@@ -13,5 +13,4 @@ git commit -m "commit message" (should be proper and related to the content)
 
 
 git push -- to push the files in the local to remote
-
 added this line from github
