@@ -1,4 +1,4 @@
-git init ---- used to initialize the remote repository in the local machine
+git init ---- used to initialize the remote repository in the local 
 
 
 git clone--- used to make a copy of repo(repository) in the local machine
